@@ -36,7 +36,7 @@ if __name__ == "__main__":
     }
 
     # Initialize PhishingCheckerAPI with API key
-    API_KEY = 'R65jPzgUPZDss6hWLS4e5op7OTMOgB7K'  # Ideally, keep this in an environment variable
+    API_KEY = ''  
     phishing_checker = PhishingCheckerAPI(API_KEY)
 
     # Get the result from the API
